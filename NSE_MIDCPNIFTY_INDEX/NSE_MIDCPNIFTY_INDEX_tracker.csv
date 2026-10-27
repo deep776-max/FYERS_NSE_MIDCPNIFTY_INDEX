@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+NSE_MIDCPNIFTY_INDEX_20261027_135541,MIDCPNIFTY-INDEX,MIDCPNIFTY,25,True,True,12225,15850,5S|1|5|60|D
